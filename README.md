@@ -1,2 +1,2 @@
 # SmartSale
-Selamat Datang K SmartSale
+Selamat Datang Ke SmartSale
